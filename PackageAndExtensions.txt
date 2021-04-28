@@ -1,0 +1,14 @@
+﻿Package[Слідкуй за сумісністю версій пакетів та версій програми]:
+	1) Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+	2) Microsoft.AspNetCore.Mvc;
+	3) Microsoft.AspNetCore.Razor;
+	4) Microsoft.EntityFrameworkCore;
+	5) Microsoft.EntityFrameworkCore.Design;
+	6) Microsoft.EntityFrameworkCore.SqlServer;
+	7) Microsoft.Extensions.Logging.Debug;
+	8) Microsoft.VisualStudio.Web.CodeGeneration.Design;
+	9) Microsoft.NET.Sdk.Razor; // Вирішує проблеми зв"язані з Razor;
+
+Extension[Тут певні цікаві речі]
+	1) WebCompiler; //для компіляції кількох файлів в один
+	2) BundlerMinifier; //для компіляції кількох файлів в один щось з цих двох
